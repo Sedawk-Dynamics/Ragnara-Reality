@@ -2,7 +2,7 @@
 
 import { Navbar } from "@/components/navbar"
 import { Footer } from "@/components/footer"
-import { Footer } from "@/components/footer"
+// import { Footer } from "@/components/footer"
 import { Card, CardContent } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Route, Badge as Bridge, Construction, Phone, Mail, CheckCircle2 } from "lucide-react"
