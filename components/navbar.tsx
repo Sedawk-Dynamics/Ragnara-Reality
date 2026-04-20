@@ -49,13 +49,6 @@ const megaMenuContent = {
       href: "/projects/residential",
     },
     sections: [
-      // {
-      //   title: "Residential Apartments",
-      //   description:
-      //     "Modern high-rise and mid-rise apartment complexes designed for premium living with world-class amenities.",
-      //   image: "/regnara-hero-apartments.jpg",
-      //   href: "/projects/residential",
-      // },
       {
         title: "Township & Plots",
         description:
